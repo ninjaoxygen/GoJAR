@@ -1,0 +1,7 @@
+GoJAR is a simple exe to run the Oracle / Sun JRE with a jar file.
+
+It will read the path or the current JRE from the registry, and run a jar file with the same name as the EXE.
+
+ie, if you rename gojar.exe to myapp.exe it will attempt to launch myapp.jar from the same folder.
+
+Copyright (C) 2011 Chris Poole - chris@hackernet.co.uk
